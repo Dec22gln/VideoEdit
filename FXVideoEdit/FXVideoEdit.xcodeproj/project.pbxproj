@@ -3088,9 +3088,10 @@
 				CODE_SIGN_ENTITLEMENTS = "FXVideoEdit/恨剪辑.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = BBA38HM9L4;
+				DEVELOPMENT_TEAM = V2PZ36RXBQ;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/FXVideoEdit/PrefixHeader.pch";
 				INFOPLIST_FILE = FXVideoEdit/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -3111,9 +3112,10 @@
 				CODE_SIGN_ENTITLEMENTS = "FXVideoEdit/恨剪辑.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = BBA38HM9L4;
+				DEVELOPMENT_TEAM = V2PZ36RXBQ;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/FXVideoEdit/PrefixHeader.pch";
 				INFOPLIST_FILE = FXVideoEdit/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

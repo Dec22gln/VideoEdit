@@ -99,7 +99,7 @@
     self.flowLayout.subviewSpace = 10; //流式布局里面的子视图的水平和垂直间距都设置为10
     self.flowLayout.gravity = MyGravity_Horz_Fill; //流式布局里面的子视图的宽度将平均分配。
     self.flowLayout.weight = 1; //流式布局占用线性布局里面的剩余高度。
-    self.flowLayout.topPadding = 100;
+    [self.flowLayout setPaddingTop:100];
     [_holdView addSubview:self.flowLayout];
     NSInteger count = _timelineDescribe.videoArray.count;
     CGFloat height = 50;
