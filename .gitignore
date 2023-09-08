@@ -1,0 +1,5 @@
+*.xcuserstate
+FXVideoEdit/Pods/
+FXVideoEdit/Pods/*
+FXVideoEdit/FXVideoEdit.xcworkspace/xcuserdata/*
+FXVideoEdit/FXVideoEdit.xcodeproj/xcuserdata/*
